@@ -1,1 +1,1 @@
-This repository contains all my python pygame projects 
+Python pygame projects 
